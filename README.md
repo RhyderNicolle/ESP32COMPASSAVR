@@ -3,7 +3,7 @@
 ## WORK IN PROGRESS!!!
 
 ## Short Description
-A custom PCB designed specifically for Lion Battery usage, charging, MQTT/WiFi functionality, programming, and OLED displayment.
+A custom PCB designed specifically for Lithium Polymer Battery usage, charging, MQTT/WiFi functionality, programming, and OLED displayment.
 
 ## BOM (bill of materials)
 
