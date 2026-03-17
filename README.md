@@ -22,3 +22,6 @@ A custom PCB designed specifically for Lion Battery usage, charging, MQTT/WiFi f
 ## 3d Model
 
 <img width="1378" height="753" alt="AVRCOMPASS3dmodel" src="https://github.com/user-attachments/assets/317e4b6b-69ea-48b2-9236-2ba46d89a8fe" />
+
+<img width="1255" height="704" alt="image" src="https://github.com/user-attachments/assets/6bbd2230-08d4-4990-9871-02f4de8e7793" />
+
