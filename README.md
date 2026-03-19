@@ -72,11 +72,13 @@ A custom PCB designed for:
 
 ## Schematic
 
-<img width="1919" height="1032" alt="AVRCOMPASSschematic" src="https://github.com/user-attachments/assets/46c85bd1-f654-4314-bd7d-db372d6e21b1" />
+<img width="1316" height="880" alt="AVRCOMPASSschematic" src="https://github.com/user-attachments/assets/cfda36e2-03ef-426f-8399-903db7a55115" />
+
 
 ## PCB
 
-<img width="933" height="808" alt="AVRCOMPASSPCB" src="https://github.com/user-attachments/assets/bb1eb5fa-f95f-42ed-bec9-1a422653f76d" />
+<img width="1626" height="861" alt="AVRCOMPASSpcb" src="https://github.com/user-attachments/assets/2ced1169-9ed3-4a05-b2c7-9ea042860f07" />
+
 
 ## 3d Model
 
