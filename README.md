@@ -24,7 +24,7 @@ A custom PCB designed specifically for Lithium Polymer Battery usage, charging, 
 | 1µF 0805 Capacitor      | 2   | $0.23      | $0.46 | https://www.digikey.com/en/products/detail/tdk-corporation/C2012X5R1H105K085AB/3947716 |
 | 10µF 0805 Capacitor     | 3   | $0.05      | $0.15 | https://us.rs-online.com/product/kemet/c0805c106k8pactu/70095566/ |
 | 0805 White LED          | 1   | $0.50      | $0.50 | https://us.rs-online.com/product/bivar-inc-/sm0805uwc/70536355 |
-| 1.5µH 2520 Inductor     | 1   | $0.26      | $0.26 | SRN2512-1R5M (Bourns) |
+| 1.5µH 2520 Inductor     | 1   | $0.26      | $0.26 | https://www.digikey.com/en/products/detail/bourns-inc/SRN2512-1R5M/4867683?msockid=36c35eb4e3af6d9a1a6a4b4ce2216c8c |
 | ESP32-S3-WROOM-1        | 1   | $5.71      | $5.71 | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8R2/15202953 |
 | SSD1306 128x64 OLED     | 1   | $0.98      | $0.98 | https://www.aliexpress.us/item/3256808426200900.html |
 | USB-C Connector         | 1   | $0.78      | $0.78 | https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441 |
