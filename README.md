@@ -1,32 +1,32 @@
 # ESP32COMPASSAVR
 
-## 🚧 Work in Progress
+##  Work in Progress
 
-## 📌 Overview
+##  Overview
 A custom PCB designed for:
-- 🔋 Lithium Polymer battery operation & charging  
-- 📡 WiFi + MQTT (ESP32-S3)  
-- 💻 USB-C programming  
-- 🖥️ OLED display output  
+-  Lithium Polymer battery operation & charging  
+-  WiFi + MQTT (ESP32-S3)  
+-  USB-C programming and Charging
+-  OLED display output  
 
 ---
 
-## 📦 Bill of Materials (BOM)
+##  Bill of Materials (BOM)
 
-### 🔩 Passive Components
+###  Passive Components
 
 | Component              | Qty | Price (ea) | Total | Link |
 |------------------------|-----|------------|-------|------|
-| 10kΩ 0805              | 1   | $0.24      | $0.24 | https://www.digikey.com/en/products/detail/vishay/MCU08050D1002BP500/2607941 |
-| 100Ω 0805              | 1   | $0.10      | $0.10 | https://www.digikey.com/en/products/detail/yageo/RE0805FRE07100RL/19911790 |
-| 5.1kΩ 0805             | 2   | $0.73      | $1.46 | https://www.digikey.com/en/products/detail/vishay-dale-thin-film/PNM0805E5001BST5/2120390 |
-| 47kΩ 0805              | 1   | $0.10      | $0.10 | https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805F47K/3477712 |
-| 1kΩ 0805               | 2   | $0.10      | $0.20 | https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805F1K0/3477699 |
-| 2kΩ 0805               | 1   | $0.24      | $0.24 | https://www.digikey.com/en/products/detail/vishay/MCU08050D2001BP500/7348046 |
-| 1.5kΩ 0805             | 1   | $0.10      | $0.10 | https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805F1K5/3477701 |
-| 1MΩ 0805               | 1   | $0.14      | $0.14 | https://www.digikey.com/en/products/detail/vishay-dale/RCG08051M00FKEA/4172585 |
-| 180kΩ 0805             | 1   | $0.19      | $0.19 | https://www.digikey.com/en/products/detail/vishay-dale/RCS0805180KFKEA/12445764 |
-| 100kΩ 0805             | 2   | $0.10      | $0.20 | https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F100K/8577605 |
+| 10kΩ 0805  r           | 1   | $0.24      | $0.24 | https://www.digikey.com/en/products/detail/vishay/MCU08050D1002BP500/2607941 |
+| 100Ω 0805  r           | 1   | $0.10      | $0.10 | https://www.digikey.com/en/products/detail/yageo/RE0805FRE07100RL/19911790 |
+| 5.1kΩ 0805 r           | 2   | $0.73      | $1.46 | https://www.digikey.com/en/products/detail/vishay-dale-thin-film/PNM0805E5001BST5/2120390 |
+| 47kΩ 0805  r           | 1   | $0.10      | $0.10 | https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805F47K/3477712 |
+| 1kΩ 0805   r           | 2   | $0.10      | $0.20 | https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805F1K0/3477699 |
+| 2kΩ 0805   r           | 1   | $0.24      | $0.24 | https://www.digikey.com/en/products/detail/vishay/MCU08050D2001BP500/7348046 |
+| 1.5kΩ 0805 r           | 1   | $0.10      | $0.10 | https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805F1K5/3477701 |
+| 1MΩ 0805   r           | 1   | $0.14      | $0.14 | https://www.digikey.com/en/products/detail/vishay-dale/RCG08051M00FKEA/4172585 |
+| 180kΩ 0805 r           | 1   | $0.19      | $0.19 | https://www.digikey.com/en/products/detail/vishay-dale/RCS0805180KFKEA/12445764 |
+| 100kΩ 0805 r           | 2   | $0.10      | $0.20 | https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F100K/8577605 |
 | 22µF 0805 Capacitor    | 6   | $0.31      | $1.86 | https://www.digikey.com/en/products/detail/murata-electronics/GRM21BC81A226ME44L/6606263 |
 | 100nF 0805 Capacitor   | 4   | $0.02      | $0.08 | https://us.rs-online.com/product/rs-pro/1805103/72072237/ |
 | 1µF 0805 Capacitor     | 2   | $0.23      | $0.46 | https://www.digikey.com/en/products/detail/tdk-corporation/C2012X5R1H105K085AB/3947716 |
@@ -35,7 +35,7 @@ A custom PCB designed for:
 
 ---
 
-### 💡 Indicators & Switches
+###  Indicators & Switches
 
 | Component              | Qty | Price (ea) | Total | Link |
 |------------------------|-----|------------|-------|------|
@@ -45,7 +45,7 @@ A custom PCB designed for:
 
 ---
 
-### 🔌 Connectors & Modules
+###  Connectors & Modules
 
 | Component              | Qty | Price (ea) | Total | Link |
 |------------------------|-----|------------|-------|------|
@@ -55,7 +55,7 @@ A custom PCB designed for:
 
 ---
 
-### 🧠 ICs & Power
+###  ICs & Power
 
 | Component              | Qty | Price (ea) | Total | Link |
 |------------------------|-----|------------|-------|------|
@@ -66,7 +66,7 @@ A custom PCB designed for:
 
 ---
 
-## 💰 Total Estimated Cost
+##  Total Estimated Cost
 
 **$22.31**
 
@@ -77,12 +77,14 @@ A custom PCB designed for:
 
 ## PCB
 
-<img width="1626" height="861" alt="AVRCOMPASSpcb" src="https://github.com/user-attachments/assets/2ced1169-9ed3-4a05-b2c7-9ea042860f07" />
+<img width="690" height="784" alt="esp32pcb" src="https://github.com/user-attachments/assets/f4ea92a6-ada8-4ece-a60f-851c3e767370" />
 
 
 ## 3d Model
 
-<img width="1378" height="753" alt="AVRCOMPASS3dmodel" src="https://github.com/user-attachments/assets/317e4b6b-69ea-48b2-9236-2ba46d89a8fe" />
+<img width="1068" height="602" alt="OLEDESP32front" src="https://github.com/user-attachments/assets/feef1182-9156-4c25-8c00-1e1b6391c827" />
 
-<img width="1255" height="704" alt="image" src="https://github.com/user-attachments/assets/6bbd2230-08d4-4990-9871-02f4de8e7793" />
+<img width="1068" height="602" alt="OLEDESP32back" src="https://github.com/user-attachments/assets/79bcde52-4eae-448f-912f-e977ef507982" />
+
+
 
