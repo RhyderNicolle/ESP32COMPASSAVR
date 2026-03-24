@@ -77,8 +77,7 @@ A custom PCB designed for:
 
 ## PCB
 
-<img width="690" height="784" alt="esp32pcb" src="https://github.com/user-attachments/assets/f4ea92a6-ada8-4ece-a60f-851c3e767370" />
-
+<img width="574" height="645" alt="image" src="https://github.com/user-attachments/assets/e0bd9ca3-776f-41eb-8d51-08b27292c686" />
 
 ## 3d Model
 
