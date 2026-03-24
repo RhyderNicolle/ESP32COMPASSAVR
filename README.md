@@ -4,7 +4,7 @@
 
 ##  Overview
 A custom PCB designed for:
--  Lithium Polymer battery operation & charging  
+-  Lithium Ion battery operation & charging  
 -  WiFi + MQTT (ESP32-S3)  
 -  USB-C programming and Charging
 -  OLED display output  
